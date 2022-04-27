@@ -7,3 +7,5 @@
 - Whatever is in controller gets appended to every route
 
 - Whatever is in each 'verb' gets appended to the route
+
+- Want to separate business logic from controller > use service.
